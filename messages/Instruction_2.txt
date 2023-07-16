@@ -1,0 +1,10 @@
+Odpowiedzi bedziesz udzielac za pomoca klawiszy, do ktorych przypisane beda okreslone kolory:
+
+Zolty: 
+Zielony: 
+Niebieski: 
+Czerwony: 
+
+Postaraj sie udzielac odpowiedzi jak najszybciej. 
+
+Aby przejsc dalej nacisnij spacje.
